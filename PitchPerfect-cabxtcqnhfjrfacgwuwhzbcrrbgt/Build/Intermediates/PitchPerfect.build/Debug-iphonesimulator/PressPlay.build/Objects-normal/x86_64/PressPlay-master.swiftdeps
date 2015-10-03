@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "d3ccff56e1ee70dcd2b2fd33d8ce612a"
+build_time: [497035606, 96444000]
+inputs: 
+	"/Users/diegomartin1/Desktop/Nanodegree/PitchPerfect/PlaySoundsViewController.swift": [497035512, 0]
+	"/Users/diegomartin1/Desktop/Nanodegree/PitchPerfect/PressPlay/RecordSoundsViewController.swift": [497035592, 0]
+	"/Users/diegomartin1/Desktop/Nanodegree/PitchPerfect/PressPlay/RecordedAudio.swift": [496994642, 0]
+	"/Users/diegomartin1/Desktop/Nanodegree/PitchPerfect/PressPlay/AppDelegate.swift": [496709581, 0]
